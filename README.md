@@ -1,71 +1,90 @@
 # 👋 Hey, I'm Tharun
 
-💻 Passionate about coding, AI, and building cool projects.
+```python
+class Developer:
+    def __init__(self):
+        self.username = "YaruLaNee"
+        self.role = "Computer Science Student"
+        self.language = "Python"
+        self.interests = [
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Data Science",
+            "Open Source"
+        ]
+
+    def motto(self):
+        return "Code • Learn • Build • Repeat"
+```
 
 ## 🚀 About Me
 
 * 🎓 Computer Science Student
-* 🤖 Learning Machine Learning & Data Science
-* 🐍 Python Developer
-* 🌱 Currently learning:
+* 💻 Passionate about Software Development & AI
+* 🤖 Currently learning Machine Learning
+* 🐍 Python Enthusiast
+* 🌱 Always exploring new technologies
+* 🎯 Goal: Build impactful AI-powered applications
 
-  * Python
-  * Pandas
-  * NumPy
-  * Scikit-learn
-  * SQL
-* 🎯 Goal: Become a skilled AI/ML Engineer and build impactful products.
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-* Python
-* C
-* Java (Learning)
-* SQL
+* 🐍 Python
+* 💙 C
+* ☕ Java
+* 🗄️ SQL
 
-**Libraries & Frameworks**
+### Libraries & Tools
 
 * Pandas
 * NumPy
 * Scikit-learn
 * Matplotlib
-
-**Tools**
-
 * Git
 * GitHub
 * VS Code
 * Jupyter Notebook
 
-## 📈 Currently Working On
+---
 
-* Machine Learning Projects
+## 📚 Currently Learning
+
+* Machine Learning
+* Data Structures & Algorithms
 * Data Analysis
-* GitHub Portfolio
+* Git & GitHub
 * Problem Solving
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
-
-## 🧠 Quote
-
-> "Code. Learn. Build. Repeat."
-
-## 🌐 Connect With Me
-
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: YOUR_LINKEDIN
-* Email: YOUR_EMAIL
 
 ---
 
-⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaruLaNee\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaruLaNee\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YaruLaNee\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 💡 Favorite Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/YaruLaNee
+
+---
+
+⭐ **Thanks for visiting my profile!**
+If you like my projects, consider leaving a ⭐ on the repositories you enjoy.
