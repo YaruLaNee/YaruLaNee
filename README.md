@@ -20,7 +20,7 @@ class Developer:
 ## 🚀 About Me
 
 * 🎓 Computer Science Student
-* 💻 Passionate about Software Development & AI
+* 💻 AI&DS
 * 🤖 Currently learning Machine Learning
 * 🐍 Python Enthusiast
 * 🌱 Always exploring new technologies
